@@ -4,7 +4,7 @@
   "description": "Playwright and Playwright Test end-to-end test automation boilerplate, using TypeScript and Playwright Expect.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx playwright test"
   },
   "repository": {
     "type": "git",
